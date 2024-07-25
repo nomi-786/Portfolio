@@ -2041,19 +2041,19 @@ input, select, textarea {
 			}
 
 			.icon.featured.alt {
-				background-color: #252122;
+				background-color: #42e3f5;
 			}
 
 				.icon.featured.alt:after {
-					border-top-color: #252122;
+					border-top-color: #42e3f5;
 				}
 
 			.icon.featured.alt2 {
-				background-color: #827a7c;
+				background-color: #42e3f5;
 			}
 
 				.icon.featured.alt2:after {
-					border-top-color: #827a7c;
+					border-top-color: #42e3f5;
 				}
 
 /* Page Wrapper */
